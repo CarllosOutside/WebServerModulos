@@ -1,5 +1,5 @@
 # WebServerModulos
-
+<pre>
 No terminal use:
 git https://github.com/CarllosOutside/WebServerModulos.git
 
@@ -19,3 +19,4 @@ localhost:8888/diskfree
 localhost:8888/time
 localhost:8888/processes
 localhost:8888/issue 
+</pre>
