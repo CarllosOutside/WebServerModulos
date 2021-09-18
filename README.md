@@ -1,7 +1,7 @@
 # WebServerModulos
 <pre>
 No terminal use:
-git https://github.com/CarllosOutside/WebServerModulos.git
+git clone https://github.com/CarllosOutside/WebServerModulos.git
 
 Depois o comando:
 make
